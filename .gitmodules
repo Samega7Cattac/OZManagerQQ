@@ -1,0 +1,3 @@
+[submodule "deps/ozmqpp"]
+	path = deps/ozmqpp
+	url = https://github.com/oncontroltech/ozmqpp.git
